@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### A little bit more about me
 ```
 const sh3llburn = {
+  bio: {
     location: 'Boston, Massachusetts',
     nick: 'sh3llburn',
     studies: [ 'Computer Science', 'Cybersecurity', 'Modern Standard Arabic' ]
@@ -31,10 +32,9 @@ const sh3llburn = {
     others: [ 'Docker', 'Kubernetes', '*nix', 'macOS', 'Raspberry Pi', 'Arduino' ]
   }
 }
-
+```
 ### Programming languages I use
 
-```
 
 <p align="center">
 <img
