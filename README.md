@@ -31,8 +31,11 @@ const sh3llburn = {
     others: [ 'Docker', 'Kubernetes', '*nix', 'macOS', 'Raspberry Pi', 'Arduino' ]
   }
 }
+## Programming languages I use
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh3llburn)](https://github.com/sh3llburn/github-readme-stats)
+
+<p align="center">
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3llburn"
 />
+</p>
