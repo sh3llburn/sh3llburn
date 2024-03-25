@@ -22,7 +22,7 @@ const sh3llburn = {
     nick: 'sh3llburn',
     studies: [ 'Computer Science', 'Cybersecurity', 'Modern Standard Arabic' ]
   },
-  interests: [ 'Cybersecurity', 'CTF', 'Cryptanalysis', 'Secure Software Development', 'Computer Science', 'Cloud Computing' ],
+  interests: [ 'Cybersecurity', 'CTF', 'Cryptanalysis', 'Software Dev', 'Computer Science', 'Cloud Computing' ],
   skills: {
     databases: [ 'MySQL', 'MongoDB', 'Redis' ],
     frameworks: [ 'Angular', 'React' ],
