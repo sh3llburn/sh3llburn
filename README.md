@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, friend 👋
 
 <!--
 **sh3llburn/sh3llburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, friend
+
 ### A little bit more about me
 ```
 const sh3llburn = {
@@ -31,7 +31,9 @@ const sh3llburn = {
     others: [ 'Docker', 'Kubernetes', '*nix', 'macOS', 'Raspberry Pi', 'Arduino' ]
   }
 }
-## Programming languages I use
+
+### Programming languages I use
+
 ```
 
 <p align="center">
