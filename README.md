@@ -33,3 +33,6 @@ const sh3llburn = {
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh3llburn)](https://github.com/sh3llburn/github-readme-stats)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3llburn"
+/>
