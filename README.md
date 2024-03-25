@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello, friend
+### A little bit more about me
+```
+const sh3llburn = {
+    location: 'Boston, Massachusetts',
+    nick: 'sh3llburn',
+    studies: [ 'Computer Science', 'Cybersecurity', 'Modern Standard Arabic' ]
+  },
+  interests: [ 'Cybersecurity', 'CTF', 'Cryptanalysis', 'Secure Software Development', 'Computer Science', 'Cloud Computing', Mathematics ],
+  skills: {
+    databases: [ 'MySQL', 'MongoDB', 'Redis' ],
+    frameworks: [ 'Angular', 'React' ],
+    languages: [ 'C', 'Python', 'JavaScript', 'Java', 'Go', 'Bash', 'Ruby', 'MATLAB', 'R' ],
+    libraries: [ 'Bootstrap', 'jQuery', 'Flask', 'Express', ],
+    others: [ 'Docker', 'Kubernetes', '*nix', 'macOS', 'Raspberry Pi', 'Arduino' ]
+  }
+}
+```
